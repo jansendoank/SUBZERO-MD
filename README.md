@@ -1,6 +1,6 @@
 <!-- DO NOT CLONE MY PROPERTY LIKE LAST TIME - MR FRANK OFC-->
 
-<h1 align="center"> 𝐒𝐔𝐁𝐙𝐄𝐑𝐎 𝐌𝐃 </h1>
+<h1 align="center"> JansenXzubzero 𝐌𝐃 </h1>
 
 <p align="center">
   <a href="https://github.com/mrfrankofcc/SUBZERO-MD">
